@@ -1,0 +1,30 @@
+.container {
+    width: 1080px;
+    margin: 50px auto 0;
+}
+
+.left-bar {
+    width: 200px;
+    /* height: 150px; */
+    padding: 5% 1% 5% 1%;
+    background-color: lightblue;
+    margin-right: 1%;
+    border-radius: 15px;
+    float: left;
+}
+
+.content {
+    width: 800px;
+    float: left;
+}
+
+.card {
+    width: 20%;
+    /* height: 150px; */
+    background-color: lightgrey;
+    padding: 5%;
+    border-radius: 15px;
+    margin-right: 1%;
+    float: left; 
+    
+}
