@@ -1,0 +1,8 @@
+.search-row {
+    background-color: rgb(238, 238, 238);
+    /* column-span: 3; */
+}
+
+.table {
+    width: 90%;
+}
