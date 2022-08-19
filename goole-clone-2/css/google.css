@@ -1,0 +1,156 @@
+
+body {
+    font-size: 12px;
+    font-family: Arial, sans-serif;
+    margin: 0 auto;
+}
+
+.header {
+    height: 20px;
+    margin-top: 10px;
+    margin-bottom: 180px;
+    
+}
+
+.header-sol {
+    padding: 10px 0px 0px 15px;
+    list-style-type: none;
+    float: left;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    width: 350px;
+}
+
+.header-sag {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    list-style-type: none;
+    float: right;
+    padding-top: 10px;
+    width: 350px;
+}
+
+.header-text {
+    opacity: 0.75;
+    font-family: arial,sans-serif;
+}
+
+a {
+    text-decoration: none;
+    padding: 5px 10px;
+    margin: -10px 10px;
+    border: 1px solid #4285f4;
+    color: #ffffff;
+    font-weight: bold;
+    /* outline: none; */
+    background: #4387fd;
+    border-radius: 2px;
+    font-family: arial, sans-serif;
+    font-size: 13px;
+    cursor: default;
+    
+}
+
+li {
+    float: left;
+    padding: 0px 10px 10px;
+    list-style-type: none;
+}
+
+#appsbutton {
+    width: 15px;
+    height: 15px;
+    opacity: 0.55;
+}
+
+.orta {
+    position: relative;
+    margin-top: 100px;
+    align-items: center;    
+}
+
+.logo {
+    text-align: center;
+    align-items: center;
+    /* height: 92px; */
+    /* width: 272px; */
+}
+
+.search-field {
+    width: 500px;
+    margin: 0 auto;
+    position: relative;
+    margin-top: 10px;
+    text-align: center;
+}
+
+.search-box{
+    display: block;
+    border: 1px solid #ddd;
+    color: black;
+    font-size: 14px;
+    padding: 10px;
+    border-radius: 20px;
+    padding-left: 50px;
+    outline: none;
+    width: 480px;
+    margin-top: 20px;
+}
+
+.search-icon {
+    width: 15px;
+    height: 15px;
+    opacity: 0.5;
+    position: absolute;
+    top: 12px;
+    left:15px;
+}
+
+.voice-icon {
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    top: 10px;
+    left: 500px;
+}
+
+.search-btns {
+    padding-top: 18px ;
+}
+
+.btn {
+    background-color: #f2f2f2;
+    border: 1px solid #f2f2f2;
+    border-radius: 4px;
+    color: #5F6368;
+    font-family: arial,sans-serif;
+    font-size: 13px;
+    margin: 11px 4px;
+    padding: 7px 16px;
+}
+
+.footer {
+    position: absolute;
+    bottom: 0px;
+    background-color: #f2f2f2;
+    height: 35px;
+    width: 100%;
+    text-align: center;
+    color: #5f6368;
+    font-size: 13px;
+    line-height: 20px;
+    float: left;
+}
+
+.footer-sol {
+    padding-left: 10px;
+    float: left;
+    height: auto;
+}
+
+.footer-sag {
+    float: right;
+    padding-right: 10px;
+}
