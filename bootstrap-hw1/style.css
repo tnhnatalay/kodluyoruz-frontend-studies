@@ -1,0 +1,23 @@
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.merhaba {
+    color: red;
+}
+
+/* hr {
+    width: 80%;
+     */
+/* } */
+
+img {
+    width: auto;
+    height: 300px;
+}

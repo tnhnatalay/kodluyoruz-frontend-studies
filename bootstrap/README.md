@@ -1,0 +1,1 @@
+## images klasöründeki görseli 12'li ızgara sistemi ile dene
