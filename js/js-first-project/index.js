@@ -40,4 +40,3 @@ setInterval(() => {
     tarihField.innerHTML = `${h}:${m}:${s}${amPm} ${dayName}`
     nameField.innerHTML = givenName.toUpperCase();
 })
-// tarihField.innerHTML = `${date.getHours()}:${date.getMinutes()}:${date.getSeconds()} ${dayName}`
